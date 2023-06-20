@@ -1,0 +1,32 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  outline: none;
+  border: none;
+  text-decoration: none;
+  text-transform: capitalize;
+  transition: 0.2 ease;
+}
+body{
+  background-color: bisque;
+}
+:root {
+  --main-color: white;
+  --black-color: black;
+  --border: 10px solid black;
+}
+/* */header start /* */
+ nav{
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+
+
+
+
+
+
+/* */header end /* */
